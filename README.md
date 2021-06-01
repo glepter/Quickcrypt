@@ -42,10 +42,13 @@ Repeate the operation now with the Open file button to select the file to encryp
 ![06](https://user-images.githubusercontent.com/23648113/120394892-f72c2a00-c2e8-11eb-8246-e987d96853b2.PNG)
 
 Here is the result of trying to open an encrypted txt file
+
 Original:
+
 ![07](https://user-images.githubusercontent.com/23648113/120394893-f72c2a00-c2e8-11eb-90f9-417a3b42f936.PNG)
 
 After encrypting:
+
 ![09](https://user-images.githubusercontent.com/23648113/120394896-f7c4c080-c2e8-11eb-861e-770f298f41ab.PNG)
 
 *DECRYPT FILE*
@@ -54,7 +57,10 @@ To decrypt a file we'll have to follow the same steps to chose the key and file 
       **MAKE SURE TO USE THE SAME KEY TO DECRYPT AS THE ONE YOU USED TO ENCRYPT THAT FILE**
 
 Once the key and input files are selected just click on Decrypt and the file will return to normal and will behave as usual
-![10](https://user-images.githubusercontent.com/23648113/120394897-f7c4c080-c2e8-11eb-9ffe-6a26a0b87fbf.PNG)
+
+
+![12](https://user-images.githubusercontent.com/23648113/120396860-285a2980-c2ec-11eb-8317-254cb7073d8a.PNG)
+
 
 
 **WARNING!** 
