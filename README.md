@@ -1,13 +1,14 @@
 # Quickcrypt
 Script for quick encription of files
 
-Generaring a key file will save a randomly-generated key to encrypt the data with, after the file is encrypted it will require the SAME key to be decrypted, using a different key to decrypt the data will corrupt the data and the original key won't work to decrypt it anymore. 
+Generating a key file will save a randomly-generated key to encrypt the data with, after the file is encrypted it will require the SAME key to be decrypted, using a different key to decrypt the data will corrupt the data and the original key won't work to decrypt it anymore. 
 
 Start by running the Quickcrypt.exe 
 
 ![00](https://user-images.githubusercontent.com/23648113/120394900-f85d5700-c2e8-11eb-9ea5-6d6cfe6b9b0d.PNG)
 
 *GENERATE NEW KEY*
+
 Click the Generate Key button in the bottom-center side of the window and a pop-up will show 
 
 ![02](https://user-images.githubusercontent.com/23648113/120395204-77528f80-c2e9-11eb-8573-3d657b97d765.PNG)
